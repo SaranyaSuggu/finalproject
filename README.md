@@ -17,6 +17,10 @@ https://kind-pond-0dc125810.1.azurestaticapps.net/
 ## CONTACT
 ![image](https://user-images.githubusercontent.com/109463995/182190275-e55c6f53-0941-4e0a-8274-0ef95fa60259.png)
 
+## DEPLOYMENT
+<img width="950" alt="deploy" src="https://user-images.githubusercontent.com/109463995/182198583-778faab7-26c4-4fc9-9217-1459de3e160e.PNG">
+
+
 
 
 
