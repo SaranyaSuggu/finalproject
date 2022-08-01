@@ -15,7 +15,8 @@ https://kind-pond-0dc125810.1.azurestaticapps.net/
 ![image](https://user-images.githubusercontent.com/109463995/182189867-57b2e7ac-1378-4456-afdc-4b2b59b7e8c2.png)
 
 ## CONTACT
-![image](https://user-images.githubusercontent.com/109463995/182189952-c5b397fd-1f08-40d3-b6dc-6eaf23706667.png)
+![image](https://user-images.githubusercontent.com/109463995/182190275-e55c6f53-0941-4e0a-8274-0ef95fa60259.png)
+
 
 
 
