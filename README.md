@@ -2,12 +2,22 @@
 This is my final project "Grad School website".This website gives complete information about Grad School. It helps people in knowing the opportunities offered by the school easily. 
 ## AZURE LINK 
 https://kind-pond-0dc125810.1.azurestaticapps.net/
-## HOME
 
+## HOME
 ![image](https://user-images.githubusercontent.com/109463995/182189231-25c0849f-ab79-4fde-88f5-7541def3373f.png)
 
 ## ABOUT
-<img width="949" alt="about1" src="https://user-images.githubusercontent.com/109463995/182189363-350b3a85-fb30-45a6-b233-1ff4fbe7ad3b.PNG">
+![image](https://user-images.githubusercontent.com/109463995/182189717-6a8d45e5-4c5b-4f0c-ba69-2c1478842f29.png)
+
+![image](https://user-images.githubusercontent.com/109463995/182189560-136191f2-1804-47ce-9fa7-eef4a0f68cd9.png)
+
+## COURSES
+![image](https://user-images.githubusercontent.com/109463995/182189867-57b2e7ac-1378-4456-afdc-4b2b59b7e8c2.png)
+
+## CONTACT
+![image](https://user-images.githubusercontent.com/109463995/182189952-c5b397fd-1f08-40d3-b6dc-6eaf23706667.png)
+
+
 
 
 
